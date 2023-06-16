@@ -2,6 +2,7 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
+I had origionally recorded these manipulated URLs in the Email-Username repository however as it has grown I have now decided to create a separate repository. If you have any that you would like adding pass them on to me. 
 <br></br>
 <table>
     <tr>
