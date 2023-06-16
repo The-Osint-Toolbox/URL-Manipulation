@@ -69,13 +69,33 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
     </tr>
 </table>
  <li>fortnitetracker.com/profile/all/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Foursquare.com</td>
+    </tr>
+</table>
  <li>foursquare.com/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Github.com</td>
+    </tr>
+</table>
  <li>github.com/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Gitlab.com</td>
+    </tr>
+</table>
  <li>gitlab.com/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Gist.github.com</td>
+    </tr>
+</table>
  <li>gist.github.com/USERNAME</li>
 
  <li>hackerone.com/USERNAME</li>
