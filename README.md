@@ -41,9 +41,19 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
     </tr>
 </table>
  <li>hub.docker.com/u/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>dumpoir.com</td>
+    </tr>
+</table>
  <li>dumpoir.com/v/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Gravatar.com</td>
+    </tr>
+</table>
  <li>en.gravatar.com/USERNAME</li>
 
  <li>facebook.com/USERNAME</li>
@@ -69,3 +79,30 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <li>ws2.kik.com/user/USERNAME</li>
 
  <li>liberapay.com/USERNAME</li>
+ 
+
+linktr.ee/USERNAME
+mastodon.social/@USERNAME
+nitter.net/USERNAME
+pastebin.com/u/USERNAME
+paypal.com/paypalme/USERNAME
+periscope.tv/USERNAME/
+picuki.com/profile/USERNAME
+reddit.com/user/USERNAME
+roblox.com/user.aspx?username=USERNAME
+skypli.com/profile/USERNAME
+spytox.com/email-search/EMAIL HERE
+USERNAME.slack.com
+slideshare.net/USERNAME
+steamcommunity.com/id/USERNAME
+t.me/USERNAME
+web.telegram.org/k/#@USERNAME
+tiktok.com/@USERNAME
+trello.com/sUSERNAME
+twitter.com/USERNAME
+twitter.com/USERNAME/lists
+USERNAME.tumblr.com/
+twitch.tv/USERNAME
+venmo.com/USERNAME
+wigle.net/phpbb/search.php?author=USERNAME
+younow.com/USERNAME
