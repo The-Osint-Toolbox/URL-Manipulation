@@ -97,6 +97,9 @@ slideshare.net/USERNAME
 steamcommunity.com/id/USERNAME
 t.me/USERNAME
 web.telegram.org/k/#@USERNAME
+t.me/USERNAME
+t.me/joinchat/HASHVALUE
+t.me/+TELEPHONE NUMBER
 tiktok.com/@USERNAME
 trello.com/sUSERNAME
 twitter.com/USERNAME
