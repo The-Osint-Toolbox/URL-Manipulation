@@ -55,9 +55,19 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
     </tr>
 </table>
  <li>en.gravatar.com/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Facebook.com</td>
+    </tr>
+</table>
  <li>facebook.com/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Fornitetracker.com</td>
+    </tr>
+</table>
  <li>fortnitetracker.com/profile/all/USERNAME</li>
 
  <li>foursquare.com/USERNAME</li>
@@ -80,32 +90,37 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
 
  <li>liberapay.com/USERNAME</li>
  
+ <li>linktr.ee/USERNAME</li>
+ <li>mastodon.social/@USERNAME</li>
+ <li>nitter.net/USERNAME</li>
+ <li>pastebin.com/u/USERNAME</li>
+ <li>paypal.com/paypalme/USERNAME</li>
+ <li>periscope.tv/USERNAME/</li>
+ <li>picuki.com/profile/USERNAME</li>
+ <li>reddit.com/user/USERNAME</li>
+ <li>roblox.com/user.aspx?username=USERNAME</li>
+ <li>skypli.com/profile/USERNAME</li>
+ <li>USERNAME.slack.com</li>
+ <li>slideshare.net/USERNAME</li>
+ <li>spytox.com/email-search/EMAIL HERE</li>
+ <li>steamcommunity.com/id/USERNAME</li>
+ <li>t.me/USERNAME</li>
+ <li>web.telegram.org/k/#@USERNAME</li>
+ <li>t.me/joinchat/HASHVAUE</li>
+ <li>tiktok.com/@USERNAME</li>
+ <li>trello.com/sUSERNAME</li>
+ <li>twitter.com/USERNAME</li>
+ <li>twitter.com/USERNAME/lists</li>
+ <li>USERNAME.tumblr.com/</li>
+ <li>twitch.tv/USERNAME</li>
+ <li>venmo.com/USERNAME</li>
+ <li>wigle.net/phpbb/search.php?author=USERNAME</li>
+ <li>younow.com/USERNAME</li>
+</ul>
 
-linktr.ee/USERNAME
-mastodon.social/@USERNAME
-nitter.net/USERNAME
-pastebin.com/u/USERNAME
-paypal.com/paypalme/USERNAME
-periscope.tv/USERNAME/
-picuki.com/profile/USERNAME
-reddit.com/user/USERNAME
-roblox.com/user.aspx?username=USERNAME
-skypli.com/profile/USERNAME
-spytox.com/email-search/EMAIL HERE
-USERNAME.slack.com
-slideshare.net/USERNAME
-steamcommunity.com/id/USERNAME
 t.me/USERNAME
 web.telegram.org/k/#@USERNAME
 t.me/USERNAME
 t.me/joinchat/HASHVALUE
 t.me/+TELEPHONE NUMBER
-tiktok.com/@USERNAME
-trello.com/sUSERNAME
-twitter.com/USERNAME
-twitter.com/USERNAME/lists
-USERNAME.tumblr.com/
-twitch.tv/USERNAME
-venmo.com/USERNAME
-wigle.net/phpbb/search.php?author=USERNAME
-younow.com/USERNAME
+
