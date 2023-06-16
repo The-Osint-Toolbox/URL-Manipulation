@@ -4,22 +4,42 @@
 </p>
 I had origionally recorded these manipulated URLs in the Email-Username repository however as it has grown I have now decided to create a separate repository. If you have any that you would like adding pass them on to me. 
 <br></br>
-<table>
+<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below. You can always DM me on Twitter if one is not working.</p>
+<br></br>
+<ul>
+  <table>
     <tr>
-        <td>Examples of Manipulated URLs</td>
+        <td>Archive.org</td>
     </tr>
 </table>
-<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below. You can always DM me on Twitter if one is not working</p>
-<ul>
-  
  <li>archive.org/details/@USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Buymeacoffee.ee</td>
+    </tr>
+</table>
  <li>buymeacoff.ee/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Coder.social</td>
+    </tr>
+</table>
  <li>coder.social/USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Cash.app</td>
+    </tr>
+</table>
  <li>cash.app/$USERNAME</li>
-
+<br></br>
+<table>
+    <tr>
+        <td>Hub.docker.com</td>
+    </tr>
+</table>
  <li>hub.docker.com/u/USERNAME</li>
 
  <li>dumpoir.com/v/USERNAME</li>
