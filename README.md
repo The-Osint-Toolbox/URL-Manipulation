@@ -100,34 +100,142 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <br></br>
 <table>
     <tr>
-        <td>Hackerone/td>
+        <td>Hackerone</td>
     </tr>
 </table>
  <li>hackerone.com/USERNAME</li>
-
+ <br></br>
+<table>
+    <tr>
+        <td>Ifttt</td>
+    </tr>
+</table>
  <li>ifttt.com/p/USERNAME</li>
-
+ <br></br>
+<table>
+    <tr>
+        <td>Instagram</td>
+    </tr>
+</table>
  <li>instagram.com/USERNAME</li>
-
+ <br></br>
+<table>
+    <tr>
+        <td>Keybase</td>
+    </tr>
+</table>
  <li>keybase.io/USERNAME</li>
-
+ <br></br>
+<table>
+    <tr>
+        <td>Kik</td>
+    </tr>
+</table>
  <li>ws2.kik.com/user/USERNAME</li>
-
+ <br></br>
+<table>
+    <tr>
+        <td>Liberapay</td>
+    </tr>
+</table>
  <li>liberapay.com/USERNAME</li>
- 
+ <br></br>
+<table>
+    <tr>
+        <td>Linktree</td>
+    </tr>
+</table>
  <li>linktr.ee/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Mastodon</td>
+    </tr>
+</table>
  <li>mastodon.social/@USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Nitter</td>
+    </tr>
+</table>
  <li>nitter.net/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Pastebin</td>
+    </tr>
+</table>
  <li>pastebin.com/u/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Pastebin</td>
+    </tr>
+</table>
  <li>paypal.com/paypalme/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Periscope</td>
+    </tr>
+</table>
  <li>periscope.tv/USERNAME/</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Picuki</td>
+    </tr>
+</table>
  <li>picuki.com/profile/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Reddit</td>
+    </tr>
+</table>
  <li>reddit.com/user/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Roblox</td>
+    </tr>
+</table>
  <li>roblox.com/user.aspx?username=USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Skypli</td>
+    </tr>
+</table>
  <li>skypli.com/profile/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Slack</td>
+    </tr>
+</table>
  <li>USERNAME.slack.com</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Slideshare</td>
+    </tr>
+</table>
  <li>slideshare.net/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Spytox</td>
+    </tr>
+</table>
  <li>spytox.com/email-search/EMAIL HERE</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Stean</td>
+    </tr>
+</table>
  <li>steamcommunity.com/id/USERNAME</li>
  <br></br>
 <table>
@@ -139,15 +247,62 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <li>web.telegram.org/k/#@USERNAME</li>
  <li>t.me/joinchat/HASHVAUE</li>
  <li>t.me/+TELEPHONE-NUMBER</li>
- 
+  <br></br>
+<table>
+    <tr>
+        <td>Tik Tok</td>
+    </tr>
+</table>
  <li>tiktok.com/@USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Trello</td>
+    </tr>
+</table>
  <li>trello.com/sUSERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Twitter</td>
+    </tr>
+</table>
  <li>twitter.com/USERNAME</li>
  <li>twitter.com/USERNAME/lists</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Tumbler</td>
+    </tr>
+</table>
  <li>USERNAME.tumblr.com/</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Twitch</td>
+    </tr>
+</table>
  <li>twitch.tv/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Venmo</td>
+    </tr>
+</table>
  <li>venmo.com/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Wigle</td>
+    </tr>
+</table>
  <li>wigle.net/phpbb/search.php?author=USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Younow</td>
+    </tr>
+</table>
  <li>younow.com/USERNAME</li>
 </ul>
 
