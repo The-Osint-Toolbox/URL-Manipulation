@@ -124,9 +124,17 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <li>slideshare.net/USERNAME</li>
  <li>spytox.com/email-search/EMAIL HERE</li>
  <li>steamcommunity.com/id/USERNAME</li>
+ <br></br>
+<table>
+    <tr>
+        <td>Telegram</td>
+    </tr>
+</table>
  <li>t.me/USERNAME</li>
  <li>web.telegram.org/k/#@USERNAME</li>
  <li>t.me/joinchat/HASHVAUE</li>
+ <li>t.me/+TELEPHONE-NUMBER</li>
+ 
  <li>tiktok.com/@USERNAME</li>
  <li>trello.com/sUSERNAME</li>
  <li>twitter.com/USERNAME</li>
@@ -138,9 +146,5 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <li>younow.com/USERNAME</li>
 </ul>
 
-t.me/USERNAME
-web.telegram.org/k/#@USERNAME
-t.me/USERNAME
-t.me/joinchat/HASHVALUE
-t.me/+TELEPHONE NUMBER
+
 
