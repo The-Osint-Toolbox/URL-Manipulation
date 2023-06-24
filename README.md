@@ -37,7 +37,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
 <br></br>
 <table>
     <tr>
-        <td>Hub Docker</td>
+        <td>Docker</td>
     </tr>
 </table>
  <li>hub.docker.com/u/USERNAME</li>
@@ -48,6 +48,13 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
     </tr>
 </table>
  <li>dumpoir.com/v/USERNAME</li>
+<br></br>
+<table>
+    <tr>
+        <td>Element</td>
+    </tr>
+</table>
+ <li>app.element.io/#/room/#/NAME-OF-ROOM:matrix.org</li>
 <br></br>
 <table>
     <tr>
