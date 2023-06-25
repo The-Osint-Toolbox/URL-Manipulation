@@ -233,6 +233,15 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <br></br>
 <table>
     <tr>
+        <td>Snapchat</td>
+    </tr>
+</table>
+ <li>snapchat.com/explore/KEYWORD</li>
+ <li>snapchat.com/explore/KEYWORD/lenses</li>
+ <li>snapchat.com/explore/USERNAME/profiles</li>
+ <br></br>
+<table>
+    <tr>
         <td>Spytox</td>
     </tr>
 </table>
