@@ -237,8 +237,9 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
     </tr>
 </table>
  <li>snapchat.com/explore/KEYWORD</li>
- <li>snapchat.com/explore/KEYWORD/lenses</li>
- <li>snapchat.com/explore/USERNAME/profiles</li>
+ <li>snapchat.com/explore/KEYWORD/lenses</li>
+ <li>snapchat.com/add/USERNAME</li>
+ <li>snapchat.com/explore/USERNAME/profiles</li>
  <br></br>
 <table>
     <tr>
