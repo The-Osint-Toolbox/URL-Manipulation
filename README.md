@@ -69,6 +69,8 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
     </tr>
 </table>
  <li>facebook.com/USERNAME</li>
+ <li>"keyword" site:facebook.com/groups</li>
+ <li>keyword site:facebook.com/*?about</li>
 <br></br>
 <table>
     <tr>
