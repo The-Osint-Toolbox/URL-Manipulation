@@ -71,6 +71,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <li>facebook.com/USERNAME</li>
  <li>"keyword" site:facebook.com/groups</li>
  <li>keyword site:facebook.com/*?about</li>
+ <li>Add &spell=1 at the end of the link when searhing a keyword to obtain an exact match.</li>
 <br></br>
 <table>
     <tr>
