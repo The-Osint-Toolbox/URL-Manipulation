@@ -44,7 +44,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
 <br></br>
 <table>
     <tr>
-        <td>dumpoir</td>
+        <td>Dumpoir</td>
     </tr>
 </table>
  <li>dumpoir.com/v/USERNAME</li>
