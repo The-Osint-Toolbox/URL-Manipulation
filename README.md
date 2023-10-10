@@ -2,9 +2,9 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-I had origionally recorded these manipulated URLs in the Email-Username repository however as it has grown I have now decided to create a separate repository. If you have any that you would like adding pass them on to me. 
+These manipulated URLs were originally recorded in the [Email-Username](https://github.com/cqcore/Email-Username-OSINT/) repository. However, as it has grown I have now decided to create a separate repository. If you have any that you would like adding, please pass them on to me. 
 <br></br>
-<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below. You can always DM me on Twitter if one is not working.</p>
+<p>Bear in mind that from time to time websites may change their URL structure, in which case some of the below will not work and I will not have had time to update them below. You can always DM me on Twitter if one is not working.</p>
 <br></br>
 <ul>
   <table>
