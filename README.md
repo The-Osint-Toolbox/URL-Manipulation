@@ -2,14 +2,14 @@
 <p align="center">
   <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
 </p>
-I had origionally recorded these manipulated URLs in the Email-Username repository however as it has grown I have now decided to create a separate repository. If you have any that you would like adding pass them on to me. 
+These manipulated URLs were originally recorded in the <a href='https://github.com/cqcore/Email-Username-OSINT/'> Email-Username </a> repository. However, as it has grown I have now decided to create a separate repository. If you have any that you would like adding, please pass them on to me. 
 <br></br>
-<p>Bear in mind that from time to time websites may change their URL structure, in case some of the below do not work and I have not had time to update the below. You can always DM me on Twitter if one is not working.</p>
+<p>Bear in mind that from time to time websites may change their URL structure, in which case some of the below will not work and I will not have had time to update them below. You can always DM me on Twitter if one is not working.</p>
 <br></br>
 <ul>
   <table>
     <tr>
-        <td>Archive Org</td>
+        <td>Archive.org</td>
     </tr>
 </table>
  <li>archive.org/details/@USERNAME</li>
@@ -37,7 +37,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
 <br></br>
 <table>
     <tr>
-        <td>Docker</td>
+        <td>Docker Hub</td>
     </tr>
 </table>
  <li>hub.docker.com/u/USERNAME</li>
@@ -75,7 +75,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
 <br></br>
 <table>
     <tr>
-        <td>Fornitetracker</td>
+        <td>FortniteTracker</td>
     </tr>
 </table>
  <li>fortnitetracker.com/profile/all/USERNAME</li>
@@ -89,35 +89,35 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
 <br></br>
 <table>
     <tr>
-        <td>Github</td>
+        <td>GitHub</td>
     </tr>
 </table>
  <li>github.com/USERNAME</li>
 <br></br>
 <table>
     <tr>
-        <td>Gitlab</td>
+        <td>GitLab</td>
     </tr>
 </table>
  <li>gitlab.com/USERNAME</li>
 <br></br>
 <table>
     <tr>
-        <td>Gist.github</td>
+        <td>GitHub Gists</td>
     </tr>
 </table>
  <li>gist.github.com/USERNAME</li>
  <br></br>
 <table>
     <tr>
-        <td>Hackerone</td>
+        <td>HackerOne</td>
     </tr>
 </table>
  <li>hackerone.com/USERNAME</li>
  <br></br>
 <table>
     <tr>
-        <td>Ifttt</td>
+        <td>IFTTT</td>
     </tr>
 </table>
  <li>ifttt.com/p/USERNAME</li>
@@ -180,7 +180,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <br></br>
 <table>
     <tr>
-        <td>Pastebin</td>
+        <td>PayPal</td>
     </tr>
 </table>
  <li>paypal.com/paypalme/USERNAME</li>
@@ -253,7 +253,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <br></br>
 <table>
     <tr>
-        <td>Stean</td>
+        <td>Steam</td>
     </tr>
 </table>
  <li>steamcommunity.com/id/USERNAME</li>
@@ -270,7 +270,7 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
   <br></br>
 <table>
     <tr>
-        <td>Tik Tok</td>
+        <td>TikTok</td>
     </tr>
 </table>
  <li>tiktok.com/@USERNAME</li>
@@ -280,11 +280,11 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
         <td>Trello</td>
     </tr>
 </table>
- <li>trello.com/sUSERNAME</li>
+ <li>trello.com/u/USERNAME</li>
  <br></br>
 <table>
     <tr>
-        <td>Twitter</td>
+        <td>Twitter / X</td>
     </tr>
 </table>
  <li>twitter.com/USERNAME</li>
@@ -292,14 +292,14 @@ I had origionally recorded these manipulated URLs in the Email-Username reposito
  <br></br>
 <table>
     <tr>
-        <td>Tumbler</td>
+        <td>Tumblr</td>
     </tr>
 </table>
  <li>USERNAME.tumblr.com/</li>
  <br></br>
 <table>
     <tr>
-        <td>Twitch</td>
+        <td>Twitch TV</td>
     </tr>
 </table>
  <li>twitch.tv/USERNAME</li>
