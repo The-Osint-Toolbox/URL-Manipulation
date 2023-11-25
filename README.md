@@ -306,6 +306,15 @@ These manipulated URLs were originally recorded in the <a href='https://github.c
  <br></br>
 <table>
     <tr>
+        <td>Unavatar</td>
+    </tr>
+</table>
+  <li>unavatar.io/DOMAIN</li>
+  <li>unavatar.io/EMAIL</li>
+  <li>unavatar.io/USERNMAME</li>
+<br></br>
+<table>
+    <tr>
         <td>Venmo</td>
     </tr>
 </table>
