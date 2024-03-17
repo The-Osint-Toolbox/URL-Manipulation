@@ -290,6 +290,7 @@ These manipulated URLs were originally recorded in the <a href='https://github.c
 </table>
  <li>twitter.com/USERNAME</li>
  <li>twitter.com/USERNAME/lists</li>
+ <li>twitter.com/i/lists/search?q=KEYWORD</li>
  <br></br>
 <table>
     <tr>
