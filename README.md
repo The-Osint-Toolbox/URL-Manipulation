@@ -58,20 +58,20 @@ These manipulated URLs were originally recorded in the <a href='https://github.c
 <br></br>
 <table>
     <tr>
-        <td>Gravatar</td>
-    </tr>
-</table>
- <li>en.gravatar.com/USERNAME</li>
-<br></br>
-<table>
-    <tr>
         <td>Facebook</td>
     </tr>
 </table>
  <li>facebook.com/USERNAME</li>
  <li>"keyword" site:facebook.com/groups</li>
  <li>keyword site:facebook.com/*?about</li>
- <li>Add &spell=1 at the end of the link when searhing a keyword to obtain an exact match.</li>
+ <li>Add &spell=1 at the end of the link when searching a keyword to obtain an exact match.</li>
+<br></br>
+<table>
+    <tr>
+        <td>Gravatar</td>
+    </tr>
+</table>
+ <li>en.gravatar.com/USERNAME</li>
 <br></br>
 <table>
     <tr>
