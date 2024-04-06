@@ -13,6 +13,7 @@ These manipulated URLs were originally recorded in the <a href='https://github.c
     </tr>
 </table>
  <li>archive.org/details/@USERNAME</li>
+ <li>web.archive.org/WEBSITE/search/SearchTerm or Search%20Term</li> 
 <br></br>
 <table>
     <tr>
