@@ -213,8 +213,17 @@ These manipulated URLs were originally recorded in the <a href='https://github.c
         <td>Roblox</td>
     </tr>
 </table>
- <li>roblox.com/user.aspx?username=USERNAME</li>
- <br></br>
+  <li>roblox.com/user.aspx?username=USERNAME</li>
+<br/>
+<table>
+    <tr>
+        <td>Scribd</td>
+    </tr>
+</table>
+  <li>scribd.com/search?query=KEYWORD HERE</li>
+</tr>
+</table>
+<br/>
 <table>
     <tr>
         <td>Skypli</td>
