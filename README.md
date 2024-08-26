@@ -300,11 +300,11 @@ This is in essence how the username search websites / GitHub tools work, so in t
         <td>Twitter / X</td>
     </tr>
 </table>
-<li>twitter.com/USERNAME</li>
-<li>twitter.com/USERNAME/lists</li> 
-<li>twitter.com/USERNAME/lists/memberships</li>
-<li>twitter.com/i/lists/search?q=KEYWORD</li>
-<li>twitter.com/search?q=KEYWORD</li>
+<li>x.com/USERNAME</li>
+<li>x.com/USERNAME/lists</li> 
+<li>x.com/USERNAME/lists/memberships</li>
+<li>x.com/i/lists/search?q=KEYWORD</li>
+<li>x.com/search?q=KEYWORD</li>
  <br></br>
 <table>
     <tr>
