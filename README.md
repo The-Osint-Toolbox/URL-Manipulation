@@ -106,6 +106,13 @@ This is in essence how the username search websites / GitHub tools work, so in t
  <li>gist.github.com/USERNAME</li>
  <br></br>
 <table>
+ <tr>
+  <td>Gooogle Cache</td>
+ </tr>
+</table>
+ <li>google.com/search?q=cache:URL HERE</li>
+<br></br>
+<table>
     <tr>
         <td>Gravatar</td>
     </tr>
