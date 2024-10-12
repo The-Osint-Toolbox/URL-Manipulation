@@ -295,10 +295,10 @@ This is in essence how the username search websites / GitHub tools work, so in t
 </table>
  <li>tiktok.com/@USERNAME</li>
 <br></br>
-<table>
-    <tr>
-        <td>Threads</td>
-    </tr>
+ <table>
+  <tr>
+   <td>Threads</td>
+  </tr>
 </table>
  <li>threads.net/@USERNAME</li>
 <br></br>
