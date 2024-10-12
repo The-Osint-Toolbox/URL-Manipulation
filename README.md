@@ -300,7 +300,7 @@ This is in essence how the username search websites / GitHub tools work, so in t
         <td>Threads</td>
     </tr>
 </table>
-  <li>https://threads.net/@USERNAME</li>
+ <li>threads.net/@USERNAME</li>
 <br></br>
 <table>
     <tr>
