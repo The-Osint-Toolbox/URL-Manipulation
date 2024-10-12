@@ -294,7 +294,14 @@ This is in essence how the username search websites / GitHub tools work, so in t
     </tr>
 </table>
  <li>tiktok.com/@USERNAME</li>
- <br></br>
+<br></br>
+<table>
+    <tr>
+        <td>Threads</td>
+    </tr>
+</table>
+  <li>https://threads.net/@USERNAME</li>
+<br></br>
 <table>
     <tr>
         <td>Trello</td>
