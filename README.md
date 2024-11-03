@@ -279,8 +279,8 @@ This is in essence how the username search websites / GitHub tools work, so in t
  <li>steamcommunity.com/id/USERNAME</li>
  <br></br>
  <table>
-    <tr>
-        <td>Strava</td>
+    <tr>
+       <td>Strava</td>
     </tr>
 </table>
   <li>strava.com "username"</li>
