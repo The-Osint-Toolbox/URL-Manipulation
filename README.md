@@ -283,7 +283,7 @@ This is in essence how the username search websites / GitHub tools work, so in t
     <td>Strava</td>
    </tr>
 </table>
-  <li>strava.com "username"</li>
+ <li>strava.com "username"</li>
   <br></br>
 <table>
     <tr>
