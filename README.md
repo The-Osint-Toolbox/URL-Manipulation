@@ -4,7 +4,7 @@
 </p>
 These manipulated URLs were originally recorded in the <a href='https://github.com/cqcore/Email-Username-OSINT/'> Email-Username </a> repository. However, as it has grown I have now decided to create a separate repository. If you have any that you would like adding, please pass them on to me. 
 </p>
-This is in essence how the username search websites / GitHub tools work, so in theory you can construct your own and tailor you expereince
+This is in essence how the username search websites / GitHub tools work, so in theory you can construct your own and tailor you expereince.
 <br></br>
 <p>Bear in mind that from time to time websites may change their URL structure, in which case some of the below will not work and I will not have had time to update them below. You can always DM me if one is not working.</p>
 <br></br>
@@ -301,6 +301,7 @@ This is in essence how the username search websites / GitHub tools work, so in t
   </tr>
 </table>
  <li>threads.net/@USERNAME</li>
+ <li>threads.net/@USERNAME “keyword”</li>
 <br></br>
 <table>
     <tr>
