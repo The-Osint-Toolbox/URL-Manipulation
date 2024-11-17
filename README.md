@@ -15,6 +15,7 @@ This is in essence how the username search websites / GitHub tools work, so in t
     </tr>
 </table>
  <li>archive.org/details/@USERNAME</li>
+ <li>web.archive.org/SELECTED DOMAINS/search/SearchTerm or Search%20Term</li>
  <li>web.archive.org/SELECTED DOMAINS/search/SearchTerm or Search%20Term</li> 
 <br></br>
 <table>
