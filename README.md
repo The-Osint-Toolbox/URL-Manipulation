@@ -214,10 +214,9 @@ This is in essence how the username search websites / GitHub tools work, so in t
  <table>
   <tr>
    <td>ProtomMail</td>
- </tr>
-</table>
-<br></br>
- <li>api.protonmail.ch/pks/lookup?op=get&search=EMAIL ADDRESS</li>
+  </tr>
+ </table>
+ <li>api.protonmail.ch/pks/lookup?op=get&search=EMAIL ADDRESS</li>
  <br></br>
 <table>
     <tr>
