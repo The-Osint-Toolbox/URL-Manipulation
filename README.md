@@ -115,7 +115,7 @@ This is in essence how the username search websites / GitHub tools work, so in t
  <br></br>
 <table>
  <tr>
-  <td>Gooogle Cache</td>
+  <td>Google Cache</td>
  </tr>
 </table>
  <li>google.com/search?q=cache:URL HERE</li>
