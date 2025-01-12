@@ -342,6 +342,7 @@ This is in essence how the username search websites / GitHub tools work, so in t
 <li>x.com/USERNAME/lists/memberships</li>
 <li>x.com/i/lists/search?q=KEYWORD</li>
 <li>x.com/search?q=KEYWORD</li>
+<li>(https)://api.x.com/i/users/email_available.json?email=EMAIL HERE</li>
  <br></br>
 <table>
     <tr>
