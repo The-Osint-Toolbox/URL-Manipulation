@@ -246,7 +246,7 @@ This is in essence how the username search websites / GitHub tools work, so in t
 </table>
  <li>revolut.me/api/web-profile/USERNAME</li>
 <br></br>
-<table>
+ <table>
     <tr>
         <td>Scribd</td>
     </tr>
