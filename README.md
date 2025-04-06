@@ -240,6 +240,13 @@ This is in essence how the username search websites / GitHub tools work, so in t
   <li>roblox.com/user.aspx?username=USERNAME</li>
 <br/>
 <table>
+    <tr>
+        <td>Revolut</td>
+    </tr>
+</table>
+<li>revolut.me/api/web-profile/USERNAME</li>
+<br></br>
+<table>
     <tr>
         <td>Scribd</td>
     </tr>
